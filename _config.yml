@@ -3,5 +3,4 @@ theme: jekyll-theme-cayman
 url: https://sinha96.github.io
 
 
-baseurl:
-/portfolio/index.html
+baseurl: /portfolio/index.html

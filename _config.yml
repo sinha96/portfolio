@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 
-url: https://github.com/sinha96/portfolio/index.html
+url: https://sinha96.github.io
+
+
+baseurl:
+/portfolio/index.html
